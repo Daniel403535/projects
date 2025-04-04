@@ -1,4 +1,4 @@
-'''
+ '''
 this code simulates the engigma machine and its series of encryptions. the code will 
 visualize the text as each encryption/decryption takes place. just like the real machine, 
 you put in either plain text or cypher text and if the machine is set correctly your 
